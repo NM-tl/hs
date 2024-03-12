@@ -1,4 +1,6 @@
-# My Developer Skills
+# My Developer Skills 
+
+##[git profile](https://github.com/NM-tl/)
 
 ## Hard Skills
 
@@ -9,7 +11,7 @@
 
 ## Additional
 
-- SASS (CSS framework)
+- [SASS (CSS framework)](https://sass-lang.com/)
 - LESS (CSS framework)
 - Tailwind
 - AlpineJS
