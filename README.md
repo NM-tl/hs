@@ -1,6 +1,6 @@
 # My Developer Skills 
 
-## [git profile](https://github.com/NM-tl/)
+## [Git profile](https://github.com/NM-tl/)
 
 ## Hard Skills
 
