@@ -4,26 +4,26 @@
 
 - HTML5
 - CSS
-- SASS (CSS framework)
-- LESS (CSS framework)
 - JavaScript
 - React
 
-## Additional Libraries/Frameworks
+## Additional
 
-- AnimateCSS
-- Animista
+- SASS (CSS framework)
+- LESS (CSS framework)
+- Tailwind
 - AlpineJS
-- Firebase (database, authorization, Google Auth, CRUD full cycle)
 - React Charts
 - Redux/Redux Toolkit
 - Formik
-- Tailwind CSS
 - Material-UI
 - Swiper
 - DaisyUI / ReactDaisy
 - shadcn
 - GSAP
+- AnimateCSS
+- Animista
+- Firebase (database, authorization, Google Auth, CRUD full cycle)
 - GULP
 - Webpack
 - Vite
