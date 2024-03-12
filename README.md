@@ -1,6 +1,6 @@
 # My Developer Skills 
 
-##[git profile](https://github.com/NM-tl/)
+## [git profile](https://github.com/NM-tl/)
 
 ## Hard Skills
 
@@ -11,49 +11,50 @@
 
 ## Additional
 
-- [SASS (CSS framework)](https://sass-lang.com/)
-- LESS (CSS framework)
-- Tailwind
-- AlpineJS
-- React Charts
-- Redux/Redux Toolkit
-- Formik
-- Material-UI
-- Swiper
-- DaisyUI / ReactDaisy
-- shadcn
-- GSAP
-- AnimateCSS
-- Animista
-- Firebase (database, authorization, Google Auth, CRUD full cycle)
-- GULP
-- Webpack
-- Vite
+- [SASS](https://sass-lang.com/)
+- [LESS](https://lesscss.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [AlpineJS](https://alpinejs.dev/)
+- [React Charts](https://react-charts.tanstack.com/)
+- [Redux/Redux Toolkit](https://redux-toolkit.js.org/)
+- [Formik](https://formik.org/)
+- [ZOD](https://zod.dev/)
+- [Material-UI](https://mui.com/)
+- [Swiper](https://swiperjs.com/demos)
+- [DaisyUI / ReactDaisy](https://daisyui.com/)
+- [shadcn](https://ui.shadcn.com/)
+- [GSAP](https://gsap.com/)
+- [AnimateCSS](https://animate.style/)
+- [Animista](https://animista.net/)
+- [Firebase (database, authorization, Google Auth, CRUD full cycle)](https://firebase.google.com/)
+- [GULP](https://gulpjs.com/)
+- [Webpack](https://webpack.js.org/)
+- [Vite](https://vitejs.dev/)
 
 ## CMS
 
-- WordPress
-- Tina (CMS for Next.js apps)
+- [WordPress](https://uk.wordpress.org/)
+- [Tina (CMS for Next.js apps)](https://tina.io/)
 
 ## WordPress Modules
 
-- Elementor
-- WooCommerce
-- Advanced Custom Fields (ACF)
+- [Elementor](https://elementor.com/)
+- [WooCommerce](https://wordpress.com/ru/plugins/woocommerce)
+- [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/)
 
 ## Extra
 
 - GitHub
 - GitLab
-- Netlify
-- Vercel
-- SPA (Single Page Application)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [SPA (Single Page Application)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 
 ## Little Experience
 
-- Shopify/Liquid
-- React Native
-- Next.js
+- [Shopify/Liquid](https://shopify.dev/docs/api/liquid/basics)
+- [React Native](https://reactnative.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## Considering for the Future
 
