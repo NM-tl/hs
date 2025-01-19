@@ -49,17 +49,20 @@
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 - [SPA (Single Page Application)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
-
-## Little Experience
-
 - [Shopify/Liquid](https://shopify.dev/docs/api/liquid/basics)
-- [React Native](https://reactnative.dev/)
+
+## Frameworks
+
+- React
 - [Next.js](https://nextjs.org/)
+- Node.js
+- Express.js
+
+## DB
+- MongoDB
+- Firestore
 
 ## Considering for the Future
 
-- Node.js
-- MongoDB
-- Express.js
 - React Native
 - Swift
