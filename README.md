@@ -8,6 +8,15 @@
 - CSS
 - JavaScript
 - React
+- NextJS
+- ExpressJs
+- NestJs
+- GCP (Google cloud)
+- Wordpress
+- Elementor
+- Webflow
+- Dart
+- FlatterFlow
 
 ## Additional
 
@@ -30,6 +39,8 @@
 - [GULP](https://gulpjs.com/)
 - [Webpack](https://webpack.js.org/)
 - [Vite](https://vitejs.dev/)
+- [Prisma](https://www.prisma.io/)
+- 
 
 ## CMS
 
@@ -55,14 +66,12 @@
 
 - React
 - [Next.js](https://nextjs.org/)
-- Node.js
-- Express.js
+- Nodejs
+- Expressjs
+- Nestjs
 
 ## DB
 - MongoDB
 - Firestore
-
-## Considering for the Future
-
-- React Native
-- Swift
+- PostgresSQL
+- MySQL
